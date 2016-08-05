@@ -1,0 +1,27 @@
+_repo: Vicky-Van_6159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: http://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- GITenberg
+title: Vicky Van
+url: http://www.gutenberg.org/ebooks/6159
